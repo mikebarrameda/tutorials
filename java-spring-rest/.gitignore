@@ -3,3 +3,4 @@ target
 
 # IntelliJ module file 
 *.iml
+.idea
